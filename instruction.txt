@@ -1,0 +1,4 @@
+Download this repo and extract it in your www/htdocs directory.
+Import the [database] from db folder.
+Configure dbcon.php
+Run localhost/{YOUR FOLDER NAME}
